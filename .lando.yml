@@ -1,4 +1,4 @@
-name: poo-01-intro
+name: Zenith
 recipe: lamp
 config:
   php: '7.4'
